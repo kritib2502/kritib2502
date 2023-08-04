@@ -26,6 +26,7 @@
 🌱 I’m currently learning React Native to expand my mobile app development skills and exploring GraphQL for efficient data management.
 
 📫 How to reach me: Feel free to contact me via email at kritib2502@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/bkriti. I'm open to discussions, collaborations, and any exciting opportunities in the tech world!
+
 ✍️ In my free time, I enjoy exploring new places and podcasts to expand my knowledge and work on personal growth, or working on my latest side project.
 
 <!--
